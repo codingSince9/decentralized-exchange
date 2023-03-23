@@ -1,0 +1,77 @@
+.my-main {
+    padding-top: 120px;
+}
+.my-form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding-top: 120px;
+    align-items: center;
+}
+.my-div-5 {
+    border-radius: 20px;
+    border: 1px solid rgb(237, 238, 242);
+    background-color: rgb(247, 248, 250);
+}
+.my-div-51 {
+    display: flex;
+    padding: 1rem 1rem 0.75rem;
+}
+.my-button-511 {
+    font-size: 20px;
+    background-color: white;
+    border-radius: 16px;
+    box-shadow: rgb(0 0 0 / 8%) 0px 6px 10px;
+    border: none;
+    height: 4rem;
+    padding: 0px 8px;
+}
+.my-input-512 {
+    outline: none;
+    border: none;
+    flex: 1 1 auto;
+    background-color: rgb(247, 248, 250);
+    text-align: right;
+    font: 400 25px Arial;
+}
+.my-div-52 {
+    padding: 1rem 1rem 1rem 1.5rem;
+    font-size: inherit;
+}
+.my-button {
+    width: 100%;
+    max-width: 200px;
+    padding: 10px 16px;
+    font-size: 18px;
+    border-radius: 20px;
+    border: transparent;
+}
+.my-button-sell {
+    max-width: 480px;
+    color: white;
+    background-color: red;
+}
+.my-button-buy {
+    max-width: 480px;
+    color: white;
+    background-color: green;
+}
+.btn-group {
+    display: inline-flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 480px;
+}
+.my-divs {
+    max-width: 480px;
+    width: 100%;
+    box-shadow: rgb(0 0 0 / 1%) 0px 0px 1px, rgb(0 0 0 / 4%) 0px 4px 8px, rgb(0 0 0 / 4%) 0px 16px 24px, rgb(0 0 0 / 1%) 0px 24px 32px;
+    border-radius: 24px;
+    margin-top: 1rem;
+    padding: 8px;
+    row-gap: 12px;
+
+    
+    display: flex;
+    flex-flow: column nowrap;
+}
